@@ -1,0 +1,4 @@
+1. Microsoft Windows Firewall Documentation
+2. UFW Official Documentation
+3. Cyber Security Internship Task Guide
+4. Online research and self-study resources
